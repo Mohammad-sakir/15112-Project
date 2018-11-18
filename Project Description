@@ -1,0 +1,25 @@
+Name: Mohammad Saleh Ahsan Sakir
+Project Title: Dodge Cars
+
+This is a dodge car game. 
+The game can be played in 2 different modes. 
+Single player and double player. 
+Before the game starts, there will be instructions to play it. 
+In single player mode, the car has to overcome all the obstacles in roads and reach the endpoint. 
+In every level, number of obstacles and speed of the car will keep increasing. 
+In the double player mode, the goal of each player will be to dodge the other car and make it hit any obstacle. 
+But one car cannot keep hitting the other car continuously. 
+So there will be a power bar for each car. 
+Once it dodges the other car, the power will decrease. 
+Then the power will increase slowly and gradually. 
+So once the power is fully empty, that car cannot hit the other car unless the power restores to a minimum extent. 
+And this will keep going unless one car hits any obstacle. 
+Also, if the distance between the cars increases too much, there will be an indicator that how far the other car is.
+
+I am planning to use pygame library for this project.
+
+By the first checkpoint, I hope the single player mode will be ready to be displayed at least first level.
+
+By the second checkpoint, I am hoping to present single player mode completely with all the levels.
+
+My final project hopefully will contain all the features as mentioned earlier.
