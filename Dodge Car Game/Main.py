@@ -1,3 +1,6 @@
+#Name: Mohammad Saleh Ahsan Sakir
+#AndrewID: msakir
+
 import pygame
 import random
 
@@ -325,3 +328,5 @@ def gameLoop():
 
         
 menu()
+
+#Acknowledgement: Sentdex & Stackoverflow
