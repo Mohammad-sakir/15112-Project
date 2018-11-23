@@ -16,7 +16,7 @@ So once the power is fully empty, that car cannot hit the other car unless the p
 And this will keep going unless one car hits any obstacle. 
 Also, if the distance between the cars increases too much, there will be an indicator that how far the other car is.
 
-I am planning to use pygame library for this project.
+I am planning to use 'pygame' and 'random' library for this project.
 
 By the first checkpoint, I hope the single player mode will be ready to be displayed at least first level.
 
