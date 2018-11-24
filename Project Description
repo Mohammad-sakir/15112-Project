@@ -5,8 +5,8 @@ This is a dodge car game.
 The game can be played in 2 different modes. 
 Single player and double player. 
 Before the game starts, there will be instructions to play it. 
-In single player mode, the car has to overcome all the obstacles in roads and reach the endpoint. 
-In every level, number of obstacles and speed of the car will keep increasing. 
+In single player mode, the car has to overcome as many obstacles as possible in roads which are the enemy cars.
+As the game goes on, the speed of the enemy car will keep increasing.
 In the double player mode, the goal of each player will be to dodge the other car and make it hit any obstacle. 
 But one car cannot keep hitting the other car continuously. 
 So there will be a power bar for each car. 
