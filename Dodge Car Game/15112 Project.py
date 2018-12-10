@@ -316,7 +316,7 @@ def gameLoop():
             thingStartY =0 - thingHeight
             thingStartX = random.randrange(0, dispWidth)
             dodged += 1
-            enemySpeed += 1.5
+            enemySpeed += .5
 
         #this is the crash logic with the enemy
         #so if the car touches the enemy, it will crash!
